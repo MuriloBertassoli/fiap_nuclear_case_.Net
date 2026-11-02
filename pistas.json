@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "CasoId": 1,
+    "Titulo": "Selo Radura na embalagem",
+    "Conteudo": "O alimento passou por feixes de elétrons ou raios gama para eliminar microrganismos, sem entrar em contato com material radioativo.",
+    "Ordem": 1
+  },
+  {
+    "Id": 2,
+    "CasoId": 1,
+    "Titulo": "Análise de laboratório pós-irradiação",
+    "Conteudo": "Assim como um raio-X médico não torna o paciente radioativo, a energia atravessa o alimento sem deixar resíduos nucleares.",
+    "Ordem": 2
+  },
+  {
+    "Id": 3,
+    "CasoId": 2,
+    "Titulo": "Meia-vida curta do radiofármaco",
+    "Conteudo": "O Tecnécio-99m utilizado em exames de imagem possui meia-vida de apenas 6 horas, decaindo rapidamente após o diagnóstico.",
+    "Ordem": 1
+  },
+  {
+    "Id": 4,
+    "CasoId": 3,
+    "Titulo": "Balanço de emissões de carbono",
+    "Conteudo": "A geração termonuclear opera em base contínua (24/7) com baixíssima emissão de gases de efeito estufa durante a operação.",
+    "Ordem": 1
+  }
+]
